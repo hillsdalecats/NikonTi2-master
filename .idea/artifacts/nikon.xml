@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="nikon">
+    <output-path>C:/Program Files/Micro-Manager-2.0gamma/mmplugins</output-path>
+    <root id="archive" name="nikon.jar" />
+  </artifact>
+</component>
